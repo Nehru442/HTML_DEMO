@@ -1,5 +1,16 @@
 # HTML_DEMO
 Html Tutorial 
 ---------------
+HTML stands for HyperText Markup Language.
+It is used to structure content on the web.
+HTML is made up of elements (tags).
+<!DOCTYPE html>: Declares the document type.
+<html>: Root element.
+<head>: Meta info (not displayed).
+<title>: Title of the page (shown in tab).
+<body>: Main content shown on the page.
+
+
+
 
 
